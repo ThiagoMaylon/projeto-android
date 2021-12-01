@@ -128,7 +128,9 @@ main{
     margin-bottom: 30px;
     border-radius: 0px 0px 10px 10px;
 }
-
+img{
+    width: 100%;
+}
 aside >ul{
     list-style-position: inside;
     columns: 2;
