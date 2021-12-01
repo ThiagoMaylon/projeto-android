@@ -84,10 +84,11 @@ header > p{
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
-    padding-bottom: 50px;
+    padding-bottom: 60px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
 }
 nav{
+    padding-top: 30px;
     padding: 10px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.36);
 }
